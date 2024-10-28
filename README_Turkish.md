@@ -1,4 +1,4 @@
-# Hesap-Makinesi-Calculator
+# Hesap-Makinesi
 
 Proje Açıklaması
 
