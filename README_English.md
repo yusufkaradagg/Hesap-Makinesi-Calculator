@@ -1,4 +1,4 @@
-# Hesap-Makinesi-Calculator
+# Calculator
 
 Project Description
 
